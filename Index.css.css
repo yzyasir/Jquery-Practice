@@ -1,0 +1,45 @@
+header {
+    background-color: rgb(224, 216, 216);
+}
+
+header .maintitle {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    border: solid 1px #c3c3c3;
+  }
+
+#panel {
+    padding: 50px;
+    display: none;
+  }
+
+.header2 {
+    display:flex;
+    justify-content: space-evenly;
+}
+
+body {
+    margin: auto;
+    width: 1000px;
+}
+
+h1 {
+    text-align: center;
+}
+
+main .structure {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer {
+    background-color: rgb(207, 200, 200);
+    display: flex;
+    justify-content: flex-end;
+}
+
